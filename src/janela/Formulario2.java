@@ -13,6 +13,21 @@ public class Formulario2 {
 		mt3.start();
 		mt4.start();
 		
+		M m = new M();
+		
+		new Thread(m).start();
+		
 	}
 	
 }
+
+
+
+
+
+
+
+
+
+
+
